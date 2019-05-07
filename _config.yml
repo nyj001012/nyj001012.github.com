@@ -295,3 +295,13 @@ defaults:
       related: true
       
 remote_theme : mmistakes/minimal-mistakes
+
+nevigation:
+- title: Home
+  url: /index.html
+- title: About
+  url: /about
+- title: Categories
+  url: /category
+- title: Contact
+  url: /contact
