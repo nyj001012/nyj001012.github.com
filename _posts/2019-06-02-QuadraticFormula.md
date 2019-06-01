@@ -11,7 +11,7 @@ QuadraticFormulaForm.cs
 <script src="https://gist.github.com/nyj001012/34b182a0810ead13af3d6b557f522bd6.js"></script>
 
 Windows Forms 앱으로 만듦 <br>
-ax^2 + bx + c = 0에서 <br>
+ax^2 + bx + c = 0에서 <br><br>
 &lt;name 속성&gt; <br>
 a값을 입력받는 textbox: txtA <br>
 b값을 입력받는 textbox: txtB <br>
