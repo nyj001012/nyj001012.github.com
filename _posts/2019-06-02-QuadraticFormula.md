@@ -12,7 +12,7 @@ QuadraticFormulaForm.cs
 
 Windows Forms 앱으로 만듦 <br>
 ax^2 + bx + c = 0에서 <br>
--name 속성-
+;ltname 속성;gt
 a값을 입력받는 textbox: txtA <br>
 b값을 입력받는 textbox: txtB <br>
 c값을 입력받는 textbox: txtC <br>
