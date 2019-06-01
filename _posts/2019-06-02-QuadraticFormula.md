@@ -1,10 +1,12 @@
 ---
+title: "이차방정식의 근의 공식"
+excerpt: "근의 공식으로 이차방정식의 해를 구하는 프로그램"
+author_profile: false
 sidebar:
--title: "C#"
- text: "근의공식으로 이차방정식의 해를 구하는 프로그램"
-title: "이차방정식의 근의공식"
-author_pofile: false
+  - title: "C#"
+    text: "근의 공식으로 이차방정식의 해를 구하는 프로그램"
 ---
+
 QuadraticFormulaForm.cs
 <script src="https://gist.github.com/nyj001012/34b182a0810ead13af3d6b557f522bd6.js"></script>
 
