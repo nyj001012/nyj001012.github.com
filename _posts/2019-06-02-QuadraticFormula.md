@@ -13,8 +13,8 @@ QuadraticFormulaForm.cs
 Windows Forms 앱으로 만듦
 ax^2 + bx + c = 0에서
 <name>
-a값을 입력받는 textbox: txtA
-b값을 입력받는 textbox: txtB
-c값을 입력받는 textbox: txtC
-입력을 확인받아 실행하는 button: btnOk
-결과(여기서는 해)를 출력하는 label: lblResult
+a값을 입력받는 textbox: txtA <br>
+b값을 입력받는 textbox: txtB <br>
+c값을 입력받는 textbox: txtC <br>
+입력을 확인받아 실행하는 button: btnOk <br>
+결과(여기서는 해)를 출력하는 label: lblResult <br>
