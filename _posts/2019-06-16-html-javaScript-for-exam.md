@@ -9,3 +9,8 @@ sidebar:
 <script src="https://gist.github.com/nyj001012/657067c84333741525c69eda6f15cd7a.js"></script>
 <br>
 bracket 이용해서 만듦
+<br>
+<br>
++2019-06-17 04:24 추가사항<br>
+ document.write(n + "x" + i + "=" + n * i + "<br>")); → document.write(n + "x" + i + "=" + n * i + "<br>");<br>
+ 파인애플 사진이 주황버섯 사진으로 바뀌지 않는 오류 수정
