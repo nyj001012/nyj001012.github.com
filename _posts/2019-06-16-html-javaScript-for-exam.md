@@ -12,6 +12,6 @@ bracket 이용해서 만듦
 <br>
 <br>
 +2019-06-17 04:24 추가사항<br>
- html_javaScript_for_exam.html에서<br>
+ html_javaScript_for_exam.html의 178번째 줄에서<br>
  document.write(n + "x" + i + "=" + n * i + "<br>")); → document.write(n + "x" + i + "=" + n * i + "<br>");<br>
  파인애플 사진이 주황버섯 사진으로 바뀌지 않는 오류 수정
