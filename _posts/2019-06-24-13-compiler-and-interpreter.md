@@ -1,5 +1,5 @@
 ---
-title: : "13_컴파일러와 인터프리터"
+title: "13_컴파일러와 인터프리터"
 excerpt: "컴파일러와 인터프리터 이해하기"
 author_profile: false
 sidebar:
