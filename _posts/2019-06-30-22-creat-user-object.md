@@ -1,5 +1,5 @@
 ---
-title: "21_사용자 정의 객체 만들기"
+title: "22_사용자 정의 객체 만들기"
 excerpt: "user라는 이름의 객체를 만들고 속성을 출력하기"
 author_profile: false
 sidebar:
