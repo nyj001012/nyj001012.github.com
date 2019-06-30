@@ -4,7 +4,7 @@ excerpt: "JAVA SCRIPT의 내장객체 학습 후 정리"
 author_profile: false
 sidebar:
   - title: "JAVA SCRIPT"
-    text: ""
+    text: "내장 객체, 날짜 객체, 문자열 "
 --- 
 <h4>
 <pre>
