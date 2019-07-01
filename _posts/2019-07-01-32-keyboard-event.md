@@ -1,5 +1,5 @@
 ---
-title: "31_JAVA SCRIPT 키보드 이벤트"
+title: "32_JAVA SCRIPT 키보드 이벤트"
 excerpt: "JAVA SCRIPT의 키보드 이벤트 학습 후 정리"
 author_profile: false
 sidebar:
