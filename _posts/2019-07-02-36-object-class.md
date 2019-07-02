@@ -4,7 +4,7 @@ excerpt: "PYTHON의 객체와 클래스 선언에 대해 학습 후 정리"
 author_profile: false
 sidebar:
   - title: "PYTHON"
-    text: ""
+    text: "객체, 클래스, 클래스 변수, 인스턴스 변수, self"
 ---
 <h4>
 <pre>
