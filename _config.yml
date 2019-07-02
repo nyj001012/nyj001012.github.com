@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "C#, HTML, JAVA SCRIPT"
+title                    : "C#, HTML, JAVA SCRIPT, PYTHON"
 title_separator          : "-"
 name                     : "나예진"
 description              : "코딩한 거 올림"
