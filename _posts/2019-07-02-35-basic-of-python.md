@@ -4,7 +4,7 @@ excerpt: "PYTHON 기초에 대해 학습 후 정리"
 author_profile: false
 sidebar:
   - title: "PYTHON"
-    text: ""
+    text: "PYTHON, PIP, PyPI, virtualenv"
 ---
 <h4>
 <pre>
