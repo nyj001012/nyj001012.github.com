@@ -4,7 +4,7 @@ excerpt: "CSS 스타일 활용에 대해 학습 후 정리"
 author_profile: false
 sidebar:
   - title: "CSS"
-    text: ""
+    text: "CSS 불러오기"
 ---
 <h4>
 <pre>
