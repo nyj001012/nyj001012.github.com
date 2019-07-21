@@ -1,5 +1,5 @@
 ---
-title: "숫자야구 코드"
+title: "55_숫자야구 코드"
 excerpt: "숫자야구 페이지 만든 후, 코드 내용 업로드"
 author_profile: false
 sidebar:
